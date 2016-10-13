@@ -1,4 +1,4 @@
-# Auto detect text files and perform LF normalization
+﻿# Auto detect text files and perform LF normalization
 * text=auto
 
 # Custom for Visual Studio
@@ -15,3 +15,5 @@
 *.PDF	 diff=astextplain
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
+可以正常显示汉字
+仍然另存为UTF-8
